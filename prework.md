@@ -49,9 +49,10 @@ an aha moment here was figuring out that even though directories and files are e
 
 This cheat sheet would be a great future reference in figuring out commands that would go into the terminal.
 
-## Typing pracice
+## Typing practice
 
 (insert 50% complete screenshot here)
+![Screenshot (43)](https://user-images.githubusercontent.com/93843463/190870623-17d0219f-d273-4779-8b1f-2b206a0faffc.png)
 
 ## Career Coaching Pre-work
 
