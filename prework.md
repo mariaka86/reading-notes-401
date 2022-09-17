@@ -2,11 +2,34 @@
 
 ## Introduction to SQL
 
-(insert screenshots here)
+
+![Screenshot (30)](https://user-images.githubusercontent.com/93843463/190870780-cff937bb-25d6-49c9-ae9a-eeaf2f6dc86b.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/93843463/190870799-3791ca63-5cde-4907-b7c4-fc4fe3ae1954.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/93843463/190870809-034517e6-ee46-4388-801e-29ddfb31f1de.png)
+
+![Screenshot (33)](https://user-images.githubusercontent.com/93843463/190870817-894bd4cd-22e0-4e25-a005-264542c34471.png)
+
+![Screenshot (34)](https://user-images.githubusercontent.com/93843463/190870836-af99e46e-8880-49fb-adc8-bbc9a1019a66.png)
+
+![Screenshot (35)](https://user-images.githubusercontent.com/93843463/190870845-2fbf391e-16db-4971-a876-2f3275a7eee3.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/93843463/190870849-440334b6-dd59-48a3-bb3e-65da268263cc.png)
+
+![Screenshot (37)](https://user-images.githubusercontent.com/93843463/190870866-f113f1c1-d9fd-42a7-a3b6-605f5ca217a1.png)
+
+![Screenshot (38)](https://user-images.githubusercontent.com/93843463/190870872-b99641d8-a3cb-4131-b3c3-3ca1592ed813.png)
+
+![Screenshot (39)](https://user-images.githubusercontent.com/93843463/190870878-9c00d482-0c70-4641-8392-0c4a04d682d8.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/93843463/190870892-da36669b-b630-46de-8385-7f1a555661c0.png)
+
+![Screenshot (41)](https://user-images.githubusercontent.com/93843463/190870902-5e5e3712-1c2c-46b4-80b9-9947f4b537e7.png)
 
 ## GIT practice
 
-(insert screenshots here)
+![Screenshot (42)](https://user-images.githubusercontent.com/93843463/190870721-97465848-44ac-459e-97f9-9a9b8e9ecdce.png)
 
 ## Bash practice
 
@@ -50,8 +73,6 @@ an aha moment here was figuring out that even though directories and files are e
 This cheat sheet would be a great future reference in figuring out commands that would go into the terminal.
 
 ## Typing practice
-
-(insert 50% complete screenshot here)
 ![Screenshot (43)](https://user-images.githubusercontent.com/93843463/190870623-17d0219f-d273-4779-8b1f-2b206a0faffc.png)
 
 ## Career Coaching Pre-work
