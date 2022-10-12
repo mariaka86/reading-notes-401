@@ -1,7 +1,7 @@
 # Class 18 reading
 What is Amazon API Gateway?
 
-a servie that is managed that allows developers to define http endpoint for a REST API or WebSocket API
+a server that is managed that allows developers to define http endpoint for a REST API or WebSocket API
 
 Why is Amazon API Gateway an important part of the Serverless ecosystem?
 
