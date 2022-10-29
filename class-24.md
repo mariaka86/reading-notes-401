@@ -31,4 +31,8 @@ Additional Questions
 
 Looking ahead at this module’s course schedule, What do you look forward to learning?
 
+Learning how to contribute to open source.
+
 What are your learning goals after reading and reviewing the class README?
+
+Be able to grasp every readings main point.
