@@ -12,7 +12,7 @@ When using the useEffect Hook:
 
 What does useEffect do?
 
-lets react know that your component needs to do something after render and call it after performing DOM updates.
+lets react know that your component needs to do something after render and calls it after performing DOM updates.
 
 Why is useEffect called inside a component?
 

@@ -8,11 +8,11 @@ What was the motivation for introducing Hooks?
 
 to solve unconnected problems in React.
 
-What changes are important regarding implementing Hooks versus Component Classes? 
+What changes are important regarding implementing Hooks versus Component Classes?
 
 You can't use hooks inside of logic/expressions.
 
-Hooks allow you to reuse stateful logic without changing ___ _______. your component hierarchy
+Hooks allow you to reuse stateful logic without changing __________. your component hierarchy
 
 hooks api
 
@@ -22,12 +22,9 @@ Name two rules imposed by React Hook usage.
 
 - Only call hooks FROM react function components
 
-
 How would you identify a custom Hook and why might you create one?
 
 you would identify a custom hook by observing how many calls it's had and if it's more than one, it's a custom hook. This would also be the reason of why you would want to create one.
-
-
 
 What is a Hook?
 
