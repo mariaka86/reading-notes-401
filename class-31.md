@@ -27,6 +27,7 @@ by making everything that can be derived from app state become derived automatic
 How would we build a reactive user interface?
 
 by using packages that keep components in sync with state
+
 Tutorial
 
 What take-away(s) did this tutorial provide?
