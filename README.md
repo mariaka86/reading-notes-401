@@ -71,3 +71,5 @@
 [Class -32 Reading Assignment](class-32.md)
 
 [Class -33 Reading Assignment](class-33.md)
+
+[Final Reading Assignment](class-34.md)
